@@ -1,6 +1,6 @@
-👋 Hi, I'm Tom
+👋 **Hello, I'm Tom**
 
-Product Manager – API Platform | Learning AI the hands-on way
+**Product Manager – Digital Platforms | Learning AI the hands-on way**
 
 I look after an enterprise API gateway and am currently building my AI skills by designing, building, and deploying an end-to-end AI-powered app (RAG + MCP + low/no-code + Lovable).
 
@@ -34,6 +34,6 @@ I look after an enterprise API gateway and am currently building my AI skills by
 
 - Prompt Library → reusable prompts I'm developing
 
-📫 How to reach me
+📫 **How to reach me**
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/tom-bridle-2896313a)
