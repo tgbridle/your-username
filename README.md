@@ -2,14 +2,14 @@
 
 **Product Manager – Digital Platforms | Learning AI the hands-on way**
 
-I look after an enterprise API gateway and am currently building my AI skills by designing, building, and deploying an end-to-end AI-powered app (RAG + MCP + low/no-code + Lovable).
+I look after a digital platform in my day job, and am currently building my AI skills by designing, building, and deploying an end-to-end AI-powered app in my spare time (RAG + MCP + low/no-code + Lovable).
 
 🔭 **What I'm working on**
 
 - An end-to-end product lifecycle project applying AI across discovery, design, and delivery
 
-- An AI-powered app (details coming soon!)
-
+- A Language App called Langly
+  
 - Documenting everything publicly in my repos
 
 🧠 **Currently learning**
@@ -26,13 +26,9 @@ I look after an enterprise API gateway and am currently building my AI skills by
 
 📂 **Key Repositories**
 
-- AI Learning Journey → Notes, diagrams, research
+- /ai-learning-journey - my learning journey and journal notes
 
-- My AI App → Code + RAG + MCP
-
-- AI MCP Tools → custom tools for my app
-
-- Prompt Library → reusable prompts I'm developing
+- /ai-language-app-74286e9f - my repo (currently hidden, to be made public soon)
 
 📫 **How to reach me**
 
